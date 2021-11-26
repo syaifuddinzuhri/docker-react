@@ -1,4 +1,4 @@
-name: cicd-demo
+name: cicd-demo-2
 
 on:
   push:
